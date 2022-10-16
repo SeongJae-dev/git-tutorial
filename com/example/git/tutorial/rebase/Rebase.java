@@ -1,4 +1,4 @@
-package com.example.git.tutorial;
+package com.example.git.tutorial.rebase;
 
 import java.util.Objects;
 
